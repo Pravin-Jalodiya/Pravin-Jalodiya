@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hii , I'm Pravin</h1>
-<h3 align="center">Computer Science undergrad learning anything/everything that resonates with my interests!</h3>
+<h3 align="center">Computer Science undergrad learning everything that resonates with my interests!</h3>
 <img align="right" alt="Work!" width="350" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hindzsight&label=Profile%20views&color=0e75b6&style=flat" alt="hindzsight" /> </p>
