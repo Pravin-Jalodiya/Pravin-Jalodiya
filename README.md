@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikey-03&label=Profile%20views&color=0e75b6&style=flat" alt="mikey-03" /> </p>
 
-<img align="right" alt="gif" width="400" scr="https://i.gifer.com/BzIT.gif">
+<img align="right" alt="gif" width="400" scr="https://camo.githubusercontent.com/d8d9bd2b25517ce4c83a1683c04e95998a72fc1edee09680162893e60f95b100/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4368656572795365706172617465476f6c64656e6579652d73697a655f726573747269637465642e676966">
 
 - 👨🏻‍💻 I’m currently learning **DSA and Competitive programming**
 
