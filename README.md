@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikey-03&label=Profile%20views&color=0e75b6&style=flat" alt="mikey-03" /> </p>
 
-<img align=“right” alt=“gif” width=“400” src=“https://i.gifer.com/BzIT.gif”/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207…”/>
 
 - 👨🏻‍💻 I’m currently learning **DSA and Competitive programming**
 
