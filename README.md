@@ -3,8 +3,6 @@
 <h3 align="center">Computer Science undergrad learning anything/everything that resonates with my interests!</h3>
 <img align="right" alt="Work!" width="350" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hindzsight&label=Profile%20views&color=0e75b6&style=flat" alt="hindzsight" /> </p>
-
 - 🌱 Currently learning **DSA and Competitive programming**
 
 - 💬 Ask me about **CP, C++**
