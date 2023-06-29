@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead[]()](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hii , I'm Pravin</h1>
 <h3 align="center">Computer Science undergrad learning anything/everything that resonates with my interests!</h3>
 <img align="right" alt="Work!" width="350" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
