@@ -5,9 +5,7 @@
 
 - 🌱 Currently learning **DSA and Competitive programming**
 
-- 💬 Ask me about **CP, C++**
-
-- ⚡ Fun fact **The 'slam' sound of your car door is fake**
+- 💬 Ask me about **CP, C++, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
