@@ -12,7 +12,7 @@
 <h2><p align="center">Skills</p></h2>
 
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,express,mysql,mongodb,git&perline=13">
+     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,nodejs,mysql,mongodb,git&perline=13">
 </p>
 
 <h2><p align="center">Socials</p></h2>
