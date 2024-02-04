@@ -3,14 +3,16 @@
 <h3 align="center">Computer Science undergrad learning anything/everything that resonates with my interests!</h3>
 <img align="right" alt="Work!" width="350" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
+
 - 🌱 Currently learning **DSA and Competitive programming**
 
 - 💬 Ask me about **CP, C++, Python**
 
+
 <h2><p align="center">Skills</p></h2>
 
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,tailwind,bootstrap,figma,react,nodejs,express,mysql,mongodb,postman,firebase,heroku,netlify,aws,linux,bash,neovim,cloudflare,git,docker&perline=13">
+     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,express,mysql,mongodb,git&perline=13">
 </p>
 
 <h2><p align="center">Socials</p></h2>
