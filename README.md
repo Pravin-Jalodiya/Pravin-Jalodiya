@@ -24,3 +24,4 @@
      <a href="https://www.linkedin.com/in/pravin-jalodiya-linked/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
      <a href="https://stackoverflow.com/users/23311255/pravin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="40" height="40" /></a>
 
+[![](https://visitcount.itsvg.in/api?id=Pravin&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
