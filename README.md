@@ -4,15 +4,15 @@
 <img align="right" alt="Work!" width="350" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 
-- 🌱 Currently learning **DSA and Competitive programming**
+- 🌱 Currently learning **Docker, Kubernetes and DBMS**
 
-- 💬 Ask me about **CP, Golang, Python**
+- 💬 Ask me about **Golang, Angular**
 
 
 <h2><p align="center">Skills</p></h2>
 
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=go,python,aws,angular,js,ts,fastapi,postgres,androidstudio,html,css,nodejs,mysql,mongodb,git,express,flask,github,postman,graphql,latex,regex,sqlite&perline=8">
+     <img src="https://skillicons.dev/icons?i=go,python,aws,angular,js,ts,fastapi,postgres,androidstudio,html,css,nodejs,mysql,mongodb,git,figma,express,flask,github,postman,graphql,latex,regex,sqlite&perline=8">
 </p>
 
 <h2><p align="center">Socials</p></h2>
